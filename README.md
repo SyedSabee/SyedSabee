@@ -7,12 +7,12 @@
 
 
 ## 💁‍♂️  About me
-- 🏫 I am a `Web Developer`
-- 🔭 I’m currently working on mastering my skills in `ReactJS`
-- 🧑‍💻 I'm working with `ReactJS`, which utilizes `JavaScript`.
+- 🏫 I am a `Web And React-Native Developer`
+- 🔭 I’m currently working on mastering my skills in `ReactJS And React-Native`
+- 🧑‍💻 I'm working with `ReactJS And React-Native`, which utilizes `JavaScript`.
 - 🧑‍🎓 I’m currently learning advanced `CSS techniques` and `state management in React`
 - 🤓 Always `learn new things`
-- 💬 Ask me about `web development`, `HTML`, `CSS`, `JavaScript`, or anything related to `ReactJS`
+- 💬 Ask me about `Web and React-Native development`, `HTML`, `CSS`, `JavaScript`, or anything related to `ReactJS And React-NAtive`
 - 📫 How to reach me **syedsabee.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
